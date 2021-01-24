@@ -1,0 +1,33 @@
+
+.header{
+    background-color: darkblue;
+
+    
+}
+
+.menu{
+    background-color: darkblue;
+    
+}
+
+.bodyimg{
+    background-color: darkcyan;
+}
+.grid{
+    display:flex;
+    flex-direction:wrap;
+    justify-content: space-evenly;
+
+
+}
+
+.grid img{
+    border:2px solid black;
+    border-radius: 50px;
+}
+.oragami{
+    border-radius: 20px;
+    background-color: white;
+    width:310px;
+    font-family:fantasy;
+}
